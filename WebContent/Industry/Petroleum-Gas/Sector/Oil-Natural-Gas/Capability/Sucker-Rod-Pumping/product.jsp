@@ -1,18 +1,27 @@
-<!DOCTYPE html>
-
-<html>
-
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:f="http://java.sun.com/jsf/core" xmlns:h="http://java.sun.com/jsf/html" version="2.0">
+    <jsp:directive.page language="java"
+        contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1" />
+    <jsp:text>
+        <![CDATA[ <?xml version="1.0" encoding="ISO-8859-1" ?> ]]>
+    </jsp:text>
+    <jsp:text>
+        <![CDATA[ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> ]]>
+    </jsp:text>
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <meta name="viewport" content="width=device-width" />
+<meta name="viewport" content="width=device-width" />
     <title>Sucker Rods &amp; Pony Rods</title>
     <link href="../../../../../../../fonts.googleapis.com/cssc1ef.css?family=Roboto:400,300,500" rel="stylesheet" />
     <link href="../../../../../../../fonts.googleapis.com/icone91f.css?family=Material+Icons" rel="stylesheet" />
     <link href="../../../../../../css/global.css" rel="stylesheet" />
     <link href="../../../../../../css/components.css" rel="stylesheet" />
     <link href="../../../../../../css/layout.css" rel="stylesheet" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Insert title here</title>
 </head>
 <body>
-    <header class="bg-bluegrey-900 display-flex padding-4 padding-v-md-8 padding-hr-md-12" id="app-bar">
+ <header class="bg-bluegrey-900 display-flex padding-4 padding-v-md-8 padding-hr-md-12" id="app-bar">
     <ul class="menu-toolbar menu-toolbar-light padding-right-4">
         <li>
             <button class="material-icons menuitem" data-menu="nav-drawer">menu</button>
@@ -206,7 +215,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -216,7 +225,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -226,7 +235,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -236,7 +245,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -246,7 +255,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -256,7 +265,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -266,7 +275,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -276,7 +285,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -286,7 +295,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -296,7 +305,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -306,7 +315,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -316,7 +325,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -326,7 +335,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -336,7 +345,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -346,7 +355,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -356,7 +365,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -366,7 +375,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -376,7 +385,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -386,7 +395,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -396,7 +405,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -406,7 +415,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -416,7 +425,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -426,7 +435,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -436,7 +445,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -446,7 +455,7 @@
                                 <h4 class="color-dark-primary subheading-1">Oil well Grade D Sucker Rod</h4>
                                 <h5 class="body-2 color-dark-secondary">Dongying Nera Petroleum Mechanical Manufacture Co., Ltd.</h5>
                                 <h4 class="padding-top-16 subheading-1">
-                                    <strong>$1—10 / meter</strong>
+                                    <strong>$1â€”10 / meter</strong>
                                 </h4>
                             </div>
                         </a>
@@ -505,7 +514,9 @@
 </footer>
     <script src="../../../../../../js/core.dom.js"></script>
     <script src="../../../../../../js/ui.menu.js"></script>
+<f:view>
+
+</f:view>
 </body>
-
-
 </html>
+</jsp:root>
